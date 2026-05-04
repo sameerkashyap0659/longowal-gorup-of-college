@@ -1,4 +1,4 @@
 # longowal-gorup-of-college
 my collage website
 <br>
-Developer:Sameer Kashyap
+Developer:Sameer Kashyap(student of apna college)
